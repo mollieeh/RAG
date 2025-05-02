@@ -1,0 +1,11 @@
+.env
+glove.6B
+data
+glove
+snapshots
+storage
+qdrant
+glove_embedded_pdfs.jsonl
+openai_embedded_pdfs.jsonl
+sbert_embedded_pdfs.jsonl
+rag_trash.ipynb
