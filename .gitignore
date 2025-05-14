@@ -10,3 +10,6 @@ openai_embedded_pdfs.jsonl
 sbert_embedded_pdfs.jsonl
 rag_trash.ipynb
 all-MiniLM-L6-v2
+RAG.ipynb
+qdrant_storage
+qdrant_tutorials
